@@ -5,6 +5,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 // Components
 import Navbar from './components/Navbar';
 import HeroJumbo from './components/Header';
+import Footer from './components/Footer';
 import Projects from './components/Portfolio';
 import Tech from './components/Resume';
 import Contact from './components/Contact'
@@ -22,6 +23,7 @@ function App() {
         <Route path='/Tech' component={Tech} />
         <Route path='/Contact' component={Contact} />
       </Switch>
+      <Footer />
     </div>
   </BrowserRouter>
   );
