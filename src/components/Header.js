@@ -17,7 +17,7 @@ function HeroJumbo() {
                         <p>Born and raised in Vancouver, British Columbia. Currently living in Toronto. Ontario. Honing my skills in HTML and CSS. I thouroughly enjoy using these programming languages to design and make unique web applications and with my motto having the glass half full im always learning. I will be adding javascript to my repertoire to add some sophistication to my applications.</p>
                     </Col>
                     <Col>
-                        <img src="../public/memojiAvatar.png" fluid />
+                        <Image src="/avatar.PNG" fluid />
                     </Col>
                 </Row>
             </Container>
