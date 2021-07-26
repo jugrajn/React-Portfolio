@@ -7,7 +7,7 @@ import '../Portfolio.css';
 
 function Projects() {
     return (
-        <Container>
+        <Container style={{ height: '85vh' }}>
             <h1>Projects</h1>
             
             <Row className='py-4'>
