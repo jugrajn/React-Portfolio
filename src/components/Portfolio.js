@@ -3,12 +3,11 @@ import Container  from 'react-bootstrap/Container';
 import Row  from 'react-bootstrap/Row';
 import Col  from 'react-bootstrap/Col';
 import Image  from 'react-bootstrap/Image';
-import '../Portfolio.css';
 
 function Projects() {
     return (
         <Container style={{ height: '85vh' }}>
-            <h1>Projects</h1>
+            <h1 style={{textAlign:'center'}}>Projects</h1>
             
             <Row className='py-4'>
 

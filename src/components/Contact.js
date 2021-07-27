@@ -35,11 +35,11 @@ function Contact() {
             setErrorMessage('Email is invalid')
             return;
         }
-        if (fullName == '') {
+        if (fullName === '') {
             setErrorMessage('Name field required')
             return;
         }
-        if (message == '') {
+        if (message === '') {
             setErrorMessage('Message field required')
             return;
         }
