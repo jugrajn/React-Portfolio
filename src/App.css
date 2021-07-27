@@ -1,3 +1,8 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 .App {
   text-align: center;
 }
@@ -26,6 +31,10 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.footer-icons:hover {
+  color: teal;
 }
 
 @keyframes App-logo-spin {

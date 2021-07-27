@@ -50,7 +50,7 @@ function Contact() {
 
 
     return (
-        <Container>
+        <Container style={{ height: '75vh' }}>
             <br></br>
             <h2>Contact Form</h2>
             {errorMessage && (
@@ -58,7 +58,7 @@ function Contact() {
                     <h3 className='error-text' style={{color: 'orangered', fontStyle: 'italic'}}>{errorMessage}</h3>
                 </div>
             )}
-            <Form style={{ height: '77.5vh' }}>
+            <Form>
                 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
                     <Form.Label>Name</Form.Label>
                     <Form.Control name='fullName' value={fullName} onChange={handleInputChange} type="text" placeholder="John Doe" />
