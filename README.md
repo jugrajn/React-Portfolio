@@ -26,7 +26,7 @@
   ## Usage
 
   ## Screenshot
-
+  ![]('/public/reactPortfolio.gif')
   
 
   ## License
