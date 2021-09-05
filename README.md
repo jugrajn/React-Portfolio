@@ -36,7 +36,7 @@
   ## Usage
   ![](/public/reactPortfolio.gif)
 
-  [Deployed App](https://jugrajn-react-portfolio.herokuapp.com/)
+  [Deployed App](https://jugportfolio.herokuapp.com/)
   
 
   ## License
