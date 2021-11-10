@@ -36,7 +36,7 @@
   ## Usage
   ![](/public/reactPortfolio.gif)
 
-  [Deployed App](https://intense-shore-32789.herokuapp.com/)
+  [Deployed App](https://jugportfolio.herokuapp.com/)
   
 
   ## License
