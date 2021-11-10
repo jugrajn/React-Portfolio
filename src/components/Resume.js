@@ -55,7 +55,7 @@ function Tech() {
                 </Col>
                 <Col fluid style={{marginLeft:'5em'}}>
                     <h2 style={{textAlign:'center', fontWeight:'bold'}}>Resume</h2>
-                    <a href='https://drive.google.com/drive/folders/1b9vqqrxsqFpSjmN6oIh4OGuV-ElwSoik?usp=sharing'><Image src='/resume.PNG' thumbnail></Image></a>
+                    <a href='https://drive.google.com/file/d/12bMjf7l_tH7AR-mQ9ynU-isEDAVaG7Uj/view?usp=sharing'><Image src='/resume2jug.PNG' thumbnail></Image></a>
                     <br></br>
                 </Col>
             </Row>

@@ -76,7 +76,7 @@ function Contact() {
                 </Button>
             </Form>
             
-            
+            <h2>Reach me at jugraj.nijjar@gmail.com</h2>
 
         </Container>
     );
