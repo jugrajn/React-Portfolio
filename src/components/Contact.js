@@ -76,7 +76,7 @@ function Contact() {
                 </Button>
             </Form>
             
-            <h2>Reach me at jugraj.nijjar@gmail.com</h2>
+            <h4 className='my-2' style={{fontStyle: 'italic', textAlign:'center'}}>Or feel free to reach me at <span style={{fontStyle:'normal'}}>jugraj.nijjar@gmail.com</span></h4>
 
         </Container>
     );
